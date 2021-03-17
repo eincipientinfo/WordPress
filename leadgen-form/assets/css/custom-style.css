@@ -1,0 +1,18 @@
+#leadgen_form{
+
+}
+#leadgen_form label{
+    display: block;
+}
+#leadgen_form input.form-control{
+    width: 100%;
+}
+#leadgen_form textarea.form-control {
+    width: auto;
+}
+#leadgen_form label.error{
+    color: red;
+}
+#leadgen_form .btn-primary{
+    margin-top: 20px;
+}
